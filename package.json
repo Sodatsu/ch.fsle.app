@@ -1,0 +1,13 @@
+{
+  "name": "app.fsle.ch",
+  "description": "FSLE App",
+  "version": "0.0.1",
+  "license": "SEE /LICENCE file",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  },
+  "private": true,
+  "dependencies": {
+    "bootstrap-ui": "^3.0.0"
+  }
+}

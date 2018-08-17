@@ -1,0 +1,22 @@
+### JetBrains template
+# Covers JetBrains IDEs
+*.iml
+.idea/
+*.ipr
+*.iws
+
+# Node
+node_modules/
+
+# Temporary
+*.tmp.html
+tmp
+.gulp-scss-cache
+
+# Backups
+bkp-*
+
+# Generated files folder
+dist
+
+
