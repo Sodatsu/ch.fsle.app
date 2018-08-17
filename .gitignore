@@ -12,6 +12,7 @@ node_modules/
 *.tmp.html
 tmp
 .gulp-scss-cache
+package-lock.json
 
 # Backups
 bkp-*
